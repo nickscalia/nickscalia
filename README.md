@@ -3,13 +3,11 @@ a MSc Mechanical Engineering - Mechatronics and Robotics student at Politecnico 
 
 🚀 My main interests include:
 
-Robotics & Exoskeletons 🤖
+🤖 Robotics & Exoskeletons
 
-3D Vision & Image Processing 📷
+🎮 Haptics & VR for Training Systems 
 
-Haptics & VR for Training Systems 🎮
-
-Embedded Systems & Control ⚙️
+⚙️ Embedded Systems & Control 
 
 🔬 Currently working on my Master's thesis on sensor fusion and payload estimation for back exoskeletons, aiming to enhance high-level control strategies.
 
