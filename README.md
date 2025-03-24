@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Nicolas, a MSc Mechanical Engineering - Mechatronics and Robotics student at Politecnico di Milano. Passionate about robotics, human-centered technology, and AI-driven systems, I focus on designing and developing solutions that enhance human life.
 
-<!--
-**nickscalia/nickscalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 My main interests include:
 
-Here are some ideas to get you started:
+Robotics & Exoskeletons 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3D Vision & Image Processing 📷
+
+Haptics & VR for Training Systems 🎮
+
+Embedded Systems & Control ⚙️
+
+🔬 Currently working on my Master's thesis on sensor fusion and payload estimation for back exoskeletons, aiming to enhance high-level control strategies.
+
+💡 Always open to collaboration on innovative projects!
+
+📫 Feel free to connect!
