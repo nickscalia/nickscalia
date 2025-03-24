@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Nicolas, a MSc Mechanical Engineering - Mechatronics and Robotics student at Politecnico di Milano. Passionate about robotics, human-centered technology, and AI-driven systems, I focus on designing and developing solutions that enhance human life.
+## 👋 Hi, I'm Nicolas, 
+a MSc Mechanical Engineering - Mechatronics and Robotics student at Politecnico di Milano. Passionate about robotics, human-centered technology, and AI-driven systems, I focus on designing and developing solutions that enhance human life.
 
 🚀 My main interests include:
 
